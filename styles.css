@@ -1,0 +1,44 @@
+body{background-color:#AFEEEE;}
+
+h1{text-align: center;
+font-size:100px;
+color:#FFE4E1;}
+
+h2{color:#006400;}
+
+.text {color:pink;}
+
+img{border:dotted;
+	padding:2px;
+	border-width:2px;
+	border-color: yellow;}
+
+p{text-align:center;}
+
+body {
+  max-width: 1000px;
+  margin: auto;
+  padding: 0px 10px 0px 10px;}
+
+  img {
+  max-width: 100%;}
+  .anchor{
+  	width: 200px;
+  	margin:0 auto;}
+
+  	.mammals{color:red;
+  		font-weight:bold;}
+  	.birds{color:blue;
+  		font-style:italic;}
+  	.fish{color:orange;
+  		text-decoration: underline}
+
+  	#tiger {background-color:sienna;
+  		width:40px;}
+  	#wolf {background-color:tan;
+  	width:40px;}
+  	#sheep {background-color:steelblue;width:45px;}
+  	#parakeet {background-color:lime;width:60px;}
+  	#piranha {background-color:gold;width:55px;}
+  	#tuna {background-color:purple;width:40px;}
+
